@@ -16,3 +16,12 @@ body {
   font-weight: 700;
   line-height: 60px;
 }
+
+.stop-writing {
+  background-image: url(image/background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  height: 100vh;
+}
